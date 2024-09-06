@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rejin. A software engineer based in 🇸🇬 from 🇮🇳
 - 👀 I’m interested in all things JS and more
 - 🌱 I’m currently learning inertia & laravel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JS projects
 - 📫 How to reach me rejinragh@gmail.com
 
 <!---
