@@ -2,7 +2,6 @@
 - 👀 I’m interested in all things JS and more
 - 🌱 I’m currently learning inertia & laravel
 - 💞️ I’m looking to collaborate on JS projects
-- 📫 How to reach me rejinragh@gmail.com
 
 <!---
 rejin-r/rejin-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
